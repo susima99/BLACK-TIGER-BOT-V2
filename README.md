@@ -18,10 +18,7 @@
 - CHANGE OWNER NUMBER TAG [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L66)
 - CHANGE OWNER NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L59)
 - CHANGE BOT NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L67)
-හායි
-හුයි
-Gm 
-Gn
+උඩ තියෙන ලින්ක් වලින් ගිහිලා ඔයාලට ඔන විදියට බොට් සෙටින් වෙනස් කර ගන්න 👆👆 
 ```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
